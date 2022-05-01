@@ -8,11 +8,11 @@ A Single page web app with dashboard  where people can pick the date and time an
 
 > ### Email
 ``` 
- doctors.portal@gmail.com
+ hello.doctors.admin@gmail.com
 ```
 > ### Password
 ``` 
- AdminDoctor@123
+ AdminDoctors1
 ```
 
 #### Features :
